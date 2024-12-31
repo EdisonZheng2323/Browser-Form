@@ -1,0 +1,13 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  background-color: brown;
+}
+
+input:valid {
+  background-color:rgb(85, 252, 85);
+}
+
+input:invalid{
+  background-color: red;
+}
